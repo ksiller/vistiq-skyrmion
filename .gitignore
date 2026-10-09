@@ -10,6 +10,7 @@ dist/
 
 # Jupyter
 .ipynb_checkpoints/
+*/Untitled*.ipynb
 
 # Test, lint and type-check caches
 .pytest_cache/
